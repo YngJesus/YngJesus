@@ -10,5 +10,5 @@ I'm a software engineering student at [EPI](https://www.epi.com.tn/), passionate
 - **Other**: Git, Docker, Figma
 
   ## 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/baha)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2019.svg)](https://www.linkedin.com/in/bahaeddinejdidi/)
 - [Twitter](https://twitter.com/baha)
